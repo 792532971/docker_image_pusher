@@ -9,5 +9,5 @@ jxxghp/moviepilot:latest
 linuxserver/qbittorrent:4.6.5
 linuxserver/emby:arm64v8-4.9.0-beta
 jxxghp/moviepilot:latest
-johngong/baidunetdisk:v_4.17.7_arm64v8 --platform=arm64v8
+johngong/baidunetdisk:v_4.17.7_arm64v8 --platform=linux/arm64
 
