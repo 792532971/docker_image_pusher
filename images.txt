@@ -10,4 +10,5 @@ linuxserver/qbittorrent:4.6.5
 linuxserver/emby:arm64v8-4.9.0-beta
 easychen/cookiecloud:latest
 jeessy/ddns-go:latest
+cym1102/nginxwebui:latest
 
