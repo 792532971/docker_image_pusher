@@ -12,4 +12,5 @@
 #jeessy/ddns-go:latest
 #cym1102/nginxwebui:latest
 #dreamacro/clash:latest
-haishanh/yacd:latest
+#haishanh/yacd:latest
+lovechen/embyserver:latest
