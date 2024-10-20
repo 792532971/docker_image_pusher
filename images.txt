@@ -13,4 +13,5 @@
 #cym1102/nginxwebui:latest
 #dreamacro/clash:latest
 #haishanh/yacd:latest
-lovechen/embyserver:latest
+#lovechen/embyserver:latest
+codercom/code-server:latest
