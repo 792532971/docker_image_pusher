@@ -14,4 +14,5 @@
 #dreamacro/clash:latest
 #haishanh/yacd:latest
 #lovechen/embyserver:latest
-codercom/code-server:latest
+#codercom/code-server:latest
+ddsderek/wxchat:latest
